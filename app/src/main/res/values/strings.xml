@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GKQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_country">Russia is the largest country in the world.</string>
+    <string name="question_rainbow">There are 6 colours in the rainbow.</string>
+    <string name="question_alphabets">There are a total of 24 alphabets.</string>
+    <string name="question_continent">Asia is the smallest continent in the world.</string>
+    <string name="question_light_bulb">Thomas Edison invented the light bulb.</string>
+    <string name="question_moon">A female has walked on the moon.</string>
+    <string name="question_USA">Washington D.C. is the capital of the United States of America.</string>
+    <string name="warning_text">Are you sure you do not want to try to figure the answer?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">Cheat Activity</string>
+</resources>
